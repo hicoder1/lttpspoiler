@@ -1,0 +1,376 @@
+﻿Map, LW, Light World, LightWorld.png
+Map, HC, Hyrule Castle, hyrulecastle.png
+Map, DW, Dark World, DarkWorld.png
+Map, ZD, Zoras Domain, ZorasDomain.png
+Map, EP, Eastern Palace, easternpalace.png
+Map, DP, Desert Palace, desertpalace.png
+Map, TOH, Tower Of Hera, towerofhera.png
+Map, POD, Palace of Darkness, palaceofdarkness.png
+Map, SP, Swamp Palace, swamppalace.png
+Map, SW, Skull Woods, Skullwoods.png
+Map, TT, Thieves Town, thievestown.png
+Map, IP, Ice Palace, icepalace.png
+Map, MM, Misery Mire, miserymire.png
+Map, TR, Turtle Rock, turtlerock.png
+Map, GT, Ganons Tower, ganonstower.png
+Altar, LW, 82,99
+Uncle, LW, 1198, 868
+[cave-034] Hyrule Castle secret entrance, LW, 1197, 835
+[cave-018] Graveyard - top right grave, LW, 1206, 594
+[cave-047] Dam, LW, 942, 1877
+[cave-040] Link's House, LW, 1097, 1385
+[cave-031] Tavern, LW, 319, 1148
+[cave-026] chicken house, LW, 198, 1083
+[cave-044] Aginah's cave, LW, 396, 1653
+[cave-035] Sahasrahla's Hut [left chest], LW, 1600, 910
+[cave-035] Sahasrahla's Hut [center chest], LW, 1633, 910
+[cave-035] Sahasrahla's Hut [right chest], LW, 1666, 910
+[cave-021] Kakariko well [top chest], LW, 50, 820
+[cave-021] Kakariko well [left chest row of 3], LW, 82, 836
+[cave-021] Kakariko well [center chest row of 3], LW, 116, 836
+[cave-021] Kakariko well [right chest row of 3], LW, 149, 836
+[cave-021] Kakariko well [bottom chest], LW, 50, 853
+[cave-022-B1] Thief's hut [top chest], LW, 259, 820
+[cave-022-B1] Thief's hut [top left chest], LW, 239, 853
+[cave-022-B1] Thief's hut [top right chest], LW, 281, 853
+[cave-022-B1] Thief's hut [bottom left chest], LW, 230, 886
+[cave-022-B1] Thief's hut [bottom right chest], LW, 290, 886
+Blacksmiths, LW, 613, 1066
+[cave-016] cave under rocks west of Santuary, LW, 784, 588
+[cave-050] cave southwest of Lake Hylia [bottom left chest], LW, 1268, 1885
+[cave-050] cave southwest of Lake Hylia [top left chest], LW,1284, 1852
+[cave-050] cave southwest of Lake Hylia [top right chest], LW, 1350, 1852
+[cave-050] cave southwest of Lake Hylia [bottom right chest], LW, 1369, 1885
+[cave-051] Ice Cave, LW, 1800, 1550
+Bottle Vendor, LW, 190, 934
+Sahasrahla, LW, 1633, 943
+Magic Bat, LW, 652, 1129
+Sick Kid, LW, 316, 1076
+Purple Chest, LW, 693, 1800
+Hobo, LW, 1391, 1397
+Bombos Tablet, LW, 442, 1845
+King Zora, LW, 1850, 290
+King Zora, ZD, 950, 40
+Piece of Heart (Thieves' Forest Hideout), LW, 380, 263
+Piece of Heart (Lumberjack Tree), LW, 604, 150
+Piece of Heart (south of Haunted Grove), LW, 534, 1657
+Piece of Heart (Graveyard), LW, 1144, 550
+Piece of Heart (Desert - northeast corner), LW, 353, 1559
+[cave-050] cave southwest of Lake Hylia - generous guy, LW, 1317, 1858
+Library, LW, 313, 1330
+Mushroom, LW, 244, 170
+Witch, LW, 1605, 670
+Piece of Heart (Maze Race), LW, 58, 1404
+Piece of Heart (Desert - west side), LW, 45, 1832
+Piece of Heart (Lake Hylia), LW, 1453, 1661
+Piece of Heart (Dam), LW, 896, 1857
+Piece of Heart (Zora's River), LW, 1883, 290
+Piece of Heart (Zora's River), ZD, 437, 612
+Haunted Grove item, LW, 577, 1327
+[dungeon-C-1F] Sanctuary, LW,922, 535
+[dungeon-C-B1] Escape - final basement room [left chest], LW, 1010, 584
+[dungeon-C-B1] Escape - final basement room [left chest], HC, 1014, 362
+[dungeon-C-B1] Escape - final basement room [middle chest], LW, 1043, 584
+[dungeon-C-B1] Escape - final basement room [middle chest], HC, 1047, 362
+[dungeon-C-B1] Escape - final basement room [right chest], LW, 1076, 584
+[dungeon-C-B1] Escape - final basement room [right chest], HC, 1080, 362
+[dungeon-C-B1] Escape - first B1 room, LW, 967, 878
+[dungeon-C-B1] Escape - first B1 room, HC, 1539, 930
+[dungeon-C-B1] Hyrule Castle - boomerang room, LW, 1000, 878
+[dungeon-C-B1] Hyrule Castle - boomerang room, HC, 240, 401
+[dungeon-C-B1] Hyrule Castle - map room, LW, 1033, 878
+[dungeon-C-B1] Hyrule Castle - map room, HC, 427, 290
+[dungeon-C-B3] Hyrule Castle - next to Zelda, LW, 1066, 878
+[dungeon-C-B3] Hyrule Castle - next to Zelda, HC, 207, 41
+[dungeon-L1-1F] Eastern Palace - compass room, LW, 1880, 782
+[dungeon-L1-1F] Eastern Palace - compass room, EP, 200, 655
+[dungeon-L1-1F] Eastern Palace - big chest, LW, 1913, 782
+[dungeon-L1-1F] Eastern Palace - big chest, EP, 600, 740
+[dungeon-L1-1F] Eastern Palace - big ball room, LW, 1946, 782
+[dungeon-L1-1F] Eastern Palace - big ball room, EP, 684, 1091
+[dungeon-L1-1F] Eastern Palace - Big key, LW, 1880, 815
+[dungeon-L1-1F] Eastern Palace - Big key, EP, 365, 993
+[dungeon-L1-1F] Eastern Palace - map room, LW, 1913, 815
+[dungeon-L1-1F] Eastern Palace - map room, EP, 1022, 830
+Heart Container - Armos Knights, LW, 1946, 815
+Heart Container - Armos Knights, EP, 100, 100
+Eastern Palace Pendant, LW, 1913, 848
+Eastern Palace Pendant, EP, 67, 100
+[dungeon-L2-B1] Desert Palace - big chest, LW, 110, 1590
+[dungeon-L2-B1] Desert Palace - big chest, DP, 86, 878
+[dungeon-L2-B1] Desert Palace - Map room, LW,143,1590
+[dungeon-L2-B1] Desert Palace - Map room, DP,462, 883
+[dungeon-L2-B1] Desert Palace - Small key room, LW,176,1590
+[dungeon-L2-B1] Desert Palace - Small key room, DP,199, 874
+[dungeon-L2-B1] Desert Palace - Big key room, LW,110,1623
+[dungeon-L2-B1] Desert Palace - Big key room, DP, 846, 859
+[dungeon-L2-B1] Desert Palace - compass room, LW,143,1623
+[dungeon-L2-B1] Desert Palace - compass room, DP, 848, 1166
+Heart Container - Lanmolas, LW,131,1536
+Heart Container - Lanmolas, DP,630, 100
+Desert Palace Pendant, LW,164,1536
+Desert Palace Pendant, DP, 597, 100
+Old Mountain Man, LW, 900, 476
+Piece of Heart (Spectacle Rock Cave), LW,979,206
+Ether Tablet, LW, 841, 35
+Piece of Heart (Spectacle Rock), LW, 1018,182
+[cave-012-1F] Death Mountain - wall of caves - left cave, LW, 1600, 180
+[cave-013] Mimic cave (from Turtle Rock), LW,1693,182
+[cave-009-1F] Death Mountain - wall of caves - right cave [top left chest], LW, 1670, 478
+[cave-009-1F] Death Mountain - wall of caves - right cave [top left middle chest], LW, 1703, 478
+[cave-009-1F] Death Mountain - wall of caves - right cave [top right middle chest], LW, 1736, 478
+[cave-009-1F] Death Mountain - wall of caves - right cave [top right chest], LW,1769,478
+[cave-009-1F] Death Mountain - wall of caves - right cave [bottom chest], LW,1802,478
+[cave-009-B1] Death Mountain - wall of caves - right cave [left chest], LW,1670,445
+[cave-009-B1] Death Mountain - wall of caves - right cave [right chest], LW,1702,445
+Piece of Heart (Death Mountain - floating island), LW, 1631, 37
+[dungeon-L3-1F] Tower of Hera - first floor, LW, 1112, 46
+[dungeon-L3-1F] Tower of Hera - first floor, TOH, 392, 2878
+[dungeon-L3-1F] Tower of Hera - freestanding key, LW,1145,46
+[dungeon-L3-1F] Tower of Hera - freestanding key, TOH, 137, 2878
+[dungeon-L3-2F] Tower of Hera - Entrance, LW,1178,46
+[dungeon-L3-2F] Tower of Hera - Entrance, TOH, 267, 2088
+[dungeon-L3-4F] Tower of Hera - 4F [small chest], LW,1112,79
+[dungeon-L3-4F] Tower of Hera - 4F [small chest], TOH, 265, 1251
+[dungeon-L3-4F] Tower of Hera - big chest, LW,1145,79
+[dungeon-L3-4F] Tower of Hera - big chest, TOH, 265, 1039
+Heart Container - Moldorm, LW,1178,79
+Heart Container - Moldorm, TOH, 287, 192
+Tower of Hera Pendant, LW,1145,112
+Tower of Hera Pendant, TOH, 254, 192
+[dungeon-A1-2F] Hyrule Castle Tower - 2 knife guys room, LW,983,803
+[dungeon-A1-3F] Hyrule Castle Tower - maze room, LW,1016, 803
+[cave-057-1F] Dark World Death Mountain - cave from top to bottom [top chest], DW,1727,297
+[cave-057-1F] Dark World Death Mountain - cave from top to bottom [bottom chest], DW,1727, 330
+[cave-056] Dark World Death Mountain - cave under boulder [top right chest], DW,1705,138
+[cave-056] Dark World Death Mountain - cave under boulder [top left chest], DW,1672,138
+[cave-056] Dark World Death Mountain - cave under boulder [bottom left chest], DW,1672, 172
+[cave-056] Dark World Death Mountain - cave under boulder [bottom right chest], DW,1705, 172
+[cave-055] Spike cave, DW, 1178, 300
+Catfish, DW, 1834, 355
+Piece of Heart (Pyramid), DW, 1190, 916
+Pyramid Fairy - Left, DW, 953, 997
+Pyramid Fairy - Right, DW, 986, 997
+[cave-063] doorless hut, DW, 225, 1196
+[cave-062] C-shaped house, DW, 425, 990
+Piece of Heart (Treasure Chest Game), DW, 105, 957
+Piece of Heart (Dark World blacksmith pegs), DW, 648, 1238
+Piece of Heart (Dark World - bumper cave), DW, 707, 320
+[cave-073] cave northeast of swamp palace [top chest], DW, 1225, 1562
+[cave-073] cave northeast of swamp palace [top middle chest], DW,1225, 1595
+[cave-073] cave northeast of swamp palace [bottom middle chest], DW, 1225, 1628
+[cave-073] cave northeast of swamp palace [bottom chest], DW,1225,1661
+Flute Boy, DW,635,1402
+[cave-073] cave northeast of swamp palace - generous guy, DW,1225,1694
+Piece of Heart (Digging Game), DW,118,1391
+[cave-071] Misery Mire west area [left chest], DW,57,1634
+[cave-071] Misery Mire west area [right chest], DW,90,1634
+[dungeon-D1-1F] Dark Palace - big key room, DW, 1921, 748
+[dungeon-D1-1F] Dark Palace - big key room, POD,332, 706
+[dungeon-D1-1F] Dark Palace - jump room [right chest], DW, 1954, 748
+[dungeon-D1-1F] Dark Palace - jump room [right chest], POD, 456, 530
+[dungeon-D1-1F] Dark Palace - jump room [left chest], DW, 1987, 748
+[dungeon-D1-1F] Dark Palace - jump room [left chest], POD, 403, 524
+[dungeon-D1-1F] Dark Palace - big chest, DW, 1921, 781
+[dungeon-D1-1F] Dark Palace - big chest, POD, 222, 159
+[dungeon-D1-1F] Dark Palace - compass room, DW, 1954, 781
+[dungeon-D1-1F] Dark Palace - compass room, POD, 409, 84
+[dungeon-D1-1F] Dark Palace - spike statue room, DW, 1987, 781
+[dungeon-D1-1F] Dark Palace - spike statue room, POD, 369, 232
+[dungeon-D1-B1] Dark Palace - turtle stalfos room, DW, 1921, 814
+[dungeon-D1-B1] Dark Palace - turtle stalfos room, POD, 777, 730
+[dungeon-D1-B1] Dark Palace - room leading to Helmasaur [left chest], DW, 1954, 814
+[dungeon-D1-B1] Dark Palace - room leading to Helmasaur [left chest], POD, 817, 534
+[dungeon-D1-B1] Dark Palace - room leading to Helmasaur [right chest], DW, 1987, 814
+[dungeon-D1-B1] Dark Palace - room leading to Helmasaur [right chest], POD, 904, 534
+[dungeon-D1-1F] Dark Palace - statue push room, DW, 1921, 847
+[dungeon-D1-1F] Dark Palace - statue push room, POD, 560, 555
+[dungeon-D1-1F] Dark Palace - maze room [top chest], DW, 1954, 847
+[dungeon-D1-1F] Dark Palace - maze room [top chest], POD, 33, 47
+[dungeon-D1-1F] Dark Palace - maze room [bottom chest], DW, 1987, 847
+[dungeon-D1-1F] Dark Palace - maze room [bottom chest], POD, 143, 258
+[dungeon-D1-B1] Dark Palace - shooter room, DW, 1921, 880
+[dungeon-D1-B1] Dark Palace - shooter room, POD, 749, 1033
+Heart Container - Helmasaur King, DW, 1954, 880
+Heart Container - Helmasaur King, POD, 835, 235
+Palace of Darkness Crystal, DW, 1987, 880
+Palace of Darkness Crystal, POD, 870, 235
+[dungeon-D2-B1] Swamp Palace - big chest, DW, 938, 1900
+[dungeon-D2-B1] Swamp Palace - big chest, SP, 764, 785
+[dungeon-D2-B1] Swamp Palace - big key room, DW,971, 1900
+[dungeon-D2-B1] Swamp Palace - big key room, SP, 420, 727
+[dungeon-D2-B1] Swamp Palace - map room, DW, 1004, 1900
+[dungeon-D2-B1] Swamp Palace - map room, SP, 1113, 727
+[dungeon-D2-B1] Swamp Palace - push 4 blocks room, DW, 938, 1933
+[dungeon-D2-B1] Swamp Palace - push 4 blocks room, SP, 115, 727
+[dungeon-D2-B1] Swamp Palace - south of hookshot room, DW, 971, 1933
+[dungeon-D2-B1] Swamp Palace - south of hookshot room, SP, 685, 1006
+[dungeon-D2-B2] Swamp Palace - flooded room [left chest], DW, 1004, 1933
+[dungeon-D2-B2] Swamp Palace - flooded room [left chest], SP, 497, 547
+[dungeon-D2-B2] Swamp Palace - flooded room [right chest], DW, 938, 1966
+[dungeon-D2-B2] Swamp Palace - flooded room [right chest], SP,530, 547
+[dungeon-D2-B2] Swamp Palace - hidden waterfall door room, DW, 971, 1966
+[dungeon-D2-B2] Swamp Palace - hidden waterfall door room, SP, 461, 268
+Heart Container - Arrghus, DW, 1004, 1966
+Heart Container - Arrghus, SP, 54, 251
+Swamp Palace Crystal, DW, 971, 1999
+Swamp Palace Crystal, SP, 87, 251
+[dungeon-D3-B1] Skull Woods - big chest, DW, 343, 300
+[dungeon-D3-B1] Skull Woods - big chest, SW, 695, 366
+[dungeon-D3-B1] Skull Woods - Big Key room, DW, 376, 300
+[dungeon-D3-B1] Skull Woods - Big Key room, SW, 389, 226
+[dungeon-D3-B1] Skull Woods - Compass room, DW, 409, 300
+[dungeon-D3-B1] Skull Woods - Compass room, SW, 542, 600
+[dungeon-D3-B1] Skull Woods - east of Fire Rod room, DW, 343, 333
+[dungeon-D3-B1] Skull Woods - east of Fire Rod room, SW, 886, 351
+[dungeon-D3-B1] Skull Woods - Entrance to part 2, DW, 376, 333
+[dungeon-D3-B1] Skull Woods - Entrance to part 2, SW, 1022, 685
+[dungeon-D3-B1] Skull Woods - Gibdo/Stalfos room, DW, 409, 333
+[dungeon-D3-B1] Skull Woods - Gibdo/Stalfos room, SW, 495, 350
+[dungeon-D3-B1] Skull Woods - south of Fire Rod room, DW, 343, 366
+[dungeon-D3-B1] Skull Woods - south of Fire Rod room, SW, 773, 598
+Heart Container - Mothula, DW, 376, 366
+Heart Container - Mothula, SW, 834, 77
+Skull Woods Crystal, DW, 409, 366
+Skull Woods Crystal, SW, 867, 77
+[dungeon-D4-1F] Thieves' Town - Room above boss, DW, 244, 989
+[dungeon-D4-1F] Thieves' Town - Room above boss, TT, 493, 66
+[dungeon-D4-B1] Thieves' Town - Bottom left of huge room [bottom right chest], DW, 277, 989
+[dungeon-D4-B1] Thieves' Town - Bottom left of huge room [bottom right chest], TT, 239, 1487
+[dungeon-D4-B1] Thieves' Town - Bottom left of huge room [top left chest], DW, 310, 989
+[dungeon-D4-B1] Thieves' Town - Bottom left of huge room [top left chest], TT, 82, 1355
+[dungeon-D4-B1] Thieves' Town - Bottom right of huge room, DW, 244, 1022
+[dungeon-D4-B1] Thieves' Town - Bottom right of huge room, TT, 421, 1434
+[dungeon-D4-B1] Thieves' Town - Top left of huge room, DW, 277, 1022
+[dungeon-D4-B1] Thieves' Town - Top left of huge room, TT, 114, 1128
+[dungeon-D4-B2] Thieves' Town - big chest, DW, 310, 1022
+[dungeon-D4-B2] Thieves' Town - big chest, TT,76, 406
+[dungeon-D4-B2] Thieves' Town - next to Blind, DW, 244, 1055
+[dungeon-D4-B2] Thieves' Town - next to Blind, TT, 570, 235
+Heart Container - Blind, DW, 277, 1055
+Heart Container - Blind, TT, 515, 569
+Thieves Town Crystal, DW, 310, 1055
+Thieves Town Crystal, TT, 548, 569
+[dungeon-D5-B1] Ice Palace - Big Key room, DW, 1600, 1736
+[dungeon-D5-B1] Ice Palace - Big Key room, IP, 694, 1000
+[dungeon-D5-B1] Ice Palace - compass room, DW, 1633, 1736
+[dungeon-D5-B1] Ice Palace - compass room, IP, 390, 1150
+[dungeon-D5-B2] Ice Palace - map room, DW, 1666, 1736
+[dungeon-D5-B2] Ice Palace - map room, IP, 300, 300
+[dungeon-D5-B3] Ice Palace - spike room, DW, 1600, 1769 
+[dungeon-D5-B3] Ice Palace - spike room, IP, 979, 853
+[dungeon-D5-B4] Ice Palace - above Blue Mail room, DW, 1633, 1769
+[dungeon-D5-B4] Ice Palace - above Blue Mail room, IP,  702, 372
+[dungeon-D5-B5] Ice Palace - b5 up staircase, DW, 1666, 1769
+[dungeon-D5-B5] Ice Palace - b5 up staircase, IP, 507, 701
+[dungeon-D5-B5] Ice Palace - big chest, DW, 1600, 1802
+[dungeon-D5-B5] Ice Palace - big chest, IP, 349, 485
+Heart Container - Kholdstare, DW, 1633, 1802
+Heart Container - Kholdstare, IP, 555, 218
+Ice Palace Crystal, DW, 1666, 1802
+Ice Palace Crystal, IP, 522, 218
+[dungeon-D6-B1] Misery Mire - big chest, DW, 138, 1649
+[dungeon-D6-B1] Misery Mire - big chest, MM, 945, 919
+[dungeon-D6-B1] Misery Mire - big hub room, DW, 171, 1649
+[dungeon-D6-B1] Misery Mire - big hub room, MM, 484, 919
+[dungeon-D6-B1] Misery Mire - big key, DW, 204, 1649
+[dungeon-D6-B1] Misery Mire - big key, MM, 230, 1415
+[dungeon-D6-B1] Misery Mire - compass, DW, 138, 1682
+[dungeon-D6-B1] Misery Mire - compass, MM, 76, 950
+[dungeon-D6-B1] Misery Mire - end of bridge, DW, 171, 1682
+[dungeon-D6-B1] Misery Mire - end of bridge, MM, 536, 356
+[dungeon-D6-B1] Misery Mire - map room, DW, 204, 1682
+[dungeon-D6-B1] Misery Mire - map room, MM, 658, 960
+[dungeon-D6-B1] Misery Mire - spike room, DW, 138, 1715
+[dungeon-D6-B1] Misery Mire - spike room, MM, 706, 807
+Heart Container - Vitreous, DW, 171, 1715
+Heart Container - Vitreous, MM, 834, 671
+Misery Mire Crystal, DW, 204, 1715
+Misery Mire Crystal, MM, 867, 671
+[dungeon-D7-1F] Turtle Rock - Chain chomp room, DW, 1910, 110
+[dungeon-D7-1F] Turtle Rock - Chain chomp room, TR, 950, 315
+[dungeon-D7-1F] Turtle Rock - compass room, DW, 1943, 110
+[dungeon-D7-1F] Turtle Rock - compass room, TR, 950, 1046
+[dungeon-D7-1F] Turtle Rock - Map room [left chest], DW, 1976, 110
+[dungeon-D7-1F] Turtle Rock - Map room [left chest], TR, 1553, 930
+[dungeon-D7-1F] Turtle Rock - Map room [right chest], DW, 1910, 143
+[dungeon-D7-1F] Turtle Rock - Map room [right chest], TR, 1585, 930
+[dungeon-D7-B1] Turtle Rock - big chest, DW, 1943, 143
+[dungeon-D7-B1] Turtle Rock - big chest, TR, 800, 1700
+[dungeon-D7-B1] Turtle Rock - big key room, DW, 1976, 143
+[dungeon-D7-B1] Turtle Rock - big key room, TR, 700, 1300
+[dungeon-D7-B1] Turtle Rock - Roller switch room, DW, 1910, 176
+[dungeon-D7-B1] Turtle Rock - Roller switch room, TR, 600, 960
+[dungeon-D7-B2] Turtle Rock - Eye bridge room [bottom left chest], DW, 1943, 176
+[dungeon-D7-B2] Turtle Rock - Eye bridge room [bottom left chest], TR, 455, 1065
+[dungeon-D7-B2] Turtle Rock - Eye bridge room [bottom right chest], DW, 1976, 176
+[dungeon-D7-B2] Turtle Rock - Eye bridge room [bottom right chest], TR, 540, 1030
+[dungeon-D7-B2] Turtle Rock - Eye bridge room [top left chest], DW, 1910, 209
+[dungeon-D7-B2] Turtle Rock - Eye bridge room [top left chest], TR, 455, 990
+[dungeon-D7-B2] Turtle Rock - Eye bridge room [top right chest], DW, 1943, 209
+[dungeon-D7-B2] Turtle Rock - Eye bridge room [top right chest], TR, 540, 950
+Heart Container - Trinexx, DW, 1976, 209
+Heart Container - Trinexx, TR, 165, 200
+Turtle Rock Crystal, DW,1943, 242
+Turtle Rock Crystal, TR, 198, 200
+[dungeon-A2-1F] Ganon's Tower - down left staircase from entrance, DW, 1120, 16
+[dungeon-A2-1F] Ganon's Tower - down left staircase from entrance, GT, 400, 1260
+[dungeon-A2-1F] Ganon's Tower - north of gap room [top left chest], DW, 1153, 16
+[dungeon-A2-1F] Ganon's Tower - north of gap room [top left chest], GT, 35, 1110
+[dungeon-A2-1F] Ganon's Tower - north of gap room [top right chest], DW, 1186, 16
+[dungeon-A2-1F] Ganon's Tower - north of gap room [top right chest], GT, 120, 1110
+[dungeon-A2-1F] Ganon's Tower - north of gap room [bottom left chest], DW, 1219, 16
+[dungeon-A2-1F] Ganon's Tower - north of gap room [bottom left chest], GT, 35, 1150
+[dungeon-A2-1F] Ganon's Tower - north of gap room [bottom right chest], DW, 1120, 49
+[dungeon-A2-1F] Ganon's Tower - north of gap room [bottom right chest], GT, 120, 1150
+[dungeon-A2-1F] Ganon's Tower - west of teleport room [top left chest], DW, 1153, 49
+[dungeon-A2-1F] Ganon's Tower - west of teleport room [top left chest], GT, 520, 960
+[dungeon-A2-1F] Ganon's Tower - west of teleport room [top right chest], DW, 1186, 49
+[dungeon-A2-1F] Ganon's Tower - west of teleport room [top right chest], GT, 553, 960
+[dungeon-A2-1F] Ganon's Tower - west of teleport room [bottom left chest], DW, 1219, 49
+[dungeon-A2-1F] Ganon's Tower - west of teleport room [bottom left chest], GT, 520, 993
+[dungeon-A2-1F] Ganon's Tower - west of teleport room [bottom right chest], DW, 1120, 82
+[dungeon-A2-1F] Ganon's Tower - west of teleport room [bottom right chest], GT,553, 993
+[dungeon-A2-1F] Ganon's Tower - north of teleport room, DW, 1153, 82
+[dungeon-A2-1F] Ganon's Tower - north of teleport room, GT, 690, 960
+[dungeon-A2-1F] Ganon's Tower - map room, DW, 1186, 82
+[dungeon-A2-1F] Ganon's Tower - map room, GT, 235, 1420
+[dungeon-A2-1F] Ganon's Tower - big chest, DW, 1219, 82
+[dungeon-A2-1F] Ganon's Tower - big chest, GT, 385, 1420
+[dungeon-A2-1F] Ganon's Tower - down right staircase from entrance [left chest], DW, 1120, 115
+[dungeon-A2-1F] Ganon's Tower - down right staircase from entrance [left chest], GT,495, 1230
+[dungeon-A2-1F] Ganon's Tower - down right staircase from entrance [right chest], DW, 1153, 115
+[dungeon-A2-1F] Ganon's Tower - down right staircase from entrance [right chest], GT, 580, 1230
+[dungeon-A2-1F] Ganon's Tower - above Armos, DW, 1186, 115
+[dungeon-A2-1F] Ganon's Tower - above Armos, GT, 580, 1470
+[dungeon-A2-1F] Ganon's Tower - east of down right staircase from entrance, DW, 1219, 115
+[dungeon-A2-1F] Ganon's Tower - east of down right staircase from entrance, GT, 695, 1230
+[dungeon-A2-1F] Ganon's Tower - compass room [top left chest], DW, 1120, 148
+[dungeon-A2-1F] Ganon's Tower - compass room [top left chest], GT, 675, 1555
+[dungeon-A2-1F] Ganon's Tower - compass room [top right chest], DW, 1153, 148
+[dungeon-A2-1F] Ganon's Tower - compass room [top right chest], GT,708, 1555
+[dungeon-A2-1F] Ganon's Tower - compass room [bottom left chest], DW, 1186, 148
+[dungeon-A2-1F] Ganon's Tower - compass room [bottom left chest], GT,675, 1595
+[dungeon-A2-1F] Ganon's Tower - compass room [bottom right chest], DW, 1219, 148
+[dungeon-A2-1F] Ganon's Tower - compass room [bottom right chest], GT, 708, 1595
+[dungeon-A2-B1] Ganon's Tower - north of Armos room [bottom chest], DW, 1120, 181
+[dungeon-A2-B1] Ganon's Tower - north of Armos room [bottom chest], GT, 230, 330
+[dungeon-A2-B1] Ganon's Tower - north of Armos room [left chest], DW, 1153, 181
+[dungeon-A2-B1] Ganon's Tower - north of Armos room [left chest], GT, 216, 297
+[dungeon-A2-B1] Ganon's Tower - north of Armos room [right chest], DW, 1186, 181
+[dungeon-A2-B1] Ganon's Tower - north of Armos room [right chest], GT,249, 297
+[dungeon-A2-6F] Ganon's Tower - north of falling floor four torches [top left chest], DW, 1219, 181
+[dungeon-A2-6F] Ganon's Tower - north of falling floor four torches [top left chest], GT, 1565, 45
+[dungeon-A2-6F] Ganon's Tower - north of falling floor four torches [top right chest], DW, 1120, 214
+[dungeon-A2-6F] Ganon's Tower - north of falling floor four torches [top right chest], GT, 1650, 45
+[dungeon-A2-6F] Ganon's Tower - before Moldorm, DW, 1153, 214
+[dungeon-A2-6F] Ganon's Tower - before Moldorm, GT, 1450, 235
+[dungeon-A2-6F] Ganon's Tower - Moldorm room, DW, 1186, 214
+[dungeon-A2-6F] Ganon's Tower - Moldorm room, GT, 1550, 530
+Agahnim, LW, 1000, 800
+Agahnim 2, DW, 1152, 52
+Ganon, DW, 1018, 836
+Turtle Rock Medallion, DW, 1927, 65
+Misery Mire Medallion, DW, 160, 1780
+Waterfall Bottle
+Pyramid Bottle

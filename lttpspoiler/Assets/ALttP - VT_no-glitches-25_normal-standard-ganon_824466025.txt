@@ -1,0 +1,373 @@
+{
+    "Light World": {
+        "Altar": "Magic Cape",
+        "Uncle": "Progressive Sword",
+        "[cave-034] Hyrule Castle secret entrance": "Progressive Armor",
+        "[cave-018] Graveyard - top right grave": "Piece Of Heart",
+        "[cave-047] Dam": "Twenty Rupees",
+        "[cave-040] Link's House": "Heart Container (refill)",
+        "[cave-031] Tavern": "Ten Arrows",
+        "[cave-026] chicken house": "Piece Of Heart",
+        "[cave-044] Aginah's cave": "Five Rupees",
+        "[cave-035] Sahasrahla's Hut [left chest]": "Cane Of Somaria",
+        "[cave-035] Sahasrahla's Hut [center chest]": "Ether",
+        "[cave-035] Sahasrahla's Hut [right chest]": "Twenty Rupees",
+        "[cave-021] Kakariko well [top chest]": "Arrow Upgrade (5)",
+        "[cave-021] Kakariko well [left chest row of 3]": "Piece Of Heart",
+        "[cave-021] Kakariko well [center chest row of 3]": "Twenty Rupees",
+        "[cave-021] Kakariko well [right chest row of 3]": "Magic Powder",
+        "[cave-021] Kakariko well [bottom chest]": "Heart Container",
+        "[cave-022-B1] Thief's hut [top chest]": "Three Bombs",
+        "[cave-022-B1] Thief's hut [top left chest]": "Piece Of Heart",
+        "[cave-022-B1] Thief's hut [top right chest]": "Hammer",
+        "[cave-022-B1] Thief's hut [bottom left chest]": "Bottle (Blue Potion)",
+        "[cave-022-B1] Thief's hut [bottom right chest]": "Heart Container",
+        "Blacksmiths": "Three Bombs",
+        "[cave-016] cave under rocks west of Santuary": "Twenty Rupees",
+        "[cave-050] cave southwest of Lake Hylia [bottom left chest]": "Progressive Glove",
+        "[cave-050] cave southwest of Lake Hylia [top left chest]": "Progressive Shield",
+        "[cave-050] cave southwest of Lake Hylia [top right chest]": "Twenty Rupees",
+        "[cave-050] cave southwest of Lake Hylia [bottom right chest]": "Three Bombs",
+        "[cave-051] Ice Cave": "Piece Of Heart",
+        "Bottle Vendor": "Boomerang",
+        "Sahasrahla": "Mushroom",
+        "Magic Bat": "Piece Of Heart",
+        "Sick Kid": "Bomb Upgrade (10)",
+        "Purple Chest": "Bottle (Fairy)",
+        "Hobo": "Heart Container",
+        "Bombos Tablet": "Pegasus Boots",
+        "King Zora": "Moon Pearl",
+        "Piece of Heart (Thieves' Forest Hideout)": "Ice Rod",
+        "Piece of Heart (Lumberjack Tree)": "Twenty Rupees",
+        "Piece of Heart (south of Haunted Grove)": "Progressive Sword",
+        "Piece of Heart (Graveyard)": "Fifty Rupees",
+        "Piece of Heart (Desert - northeast corner)": "Piece Of Heart",
+        "[cave-050] cave southwest of Lake Hylia - generous guy": "Piece Of Heart",
+        "Library": "Twenty Rupees",
+        "Mushroom": "Three Bombs",
+        "Witch": "Quake",
+        "Piece of Heart (Maze Race)": "Lamp",
+        "Piece of Heart (Desert - west side)": "Piece Of Heart",
+        "Piece of Heart (Lake Hylia)": "Twenty Rupees",
+        "Piece of Heart (Dam)": "Flippers",
+        "Piece of Heart (Zora's River)": "Progressive Armor",
+        "Haunted Grove item": "One Rupee"
+    },
+    "Hyrule Castle": {
+        "[dungeon-C-1F] Sanctuary": "Three Bombs",
+        "[dungeon-C-B1] Escape - final basement room [left chest]": "Book Of Mudora",
+        "[dungeon-C-B1] Escape - final basement room [middle chest]": "Twenty Rupees",
+        "[dungeon-C-B1] Escape - final basement room [right chest]": "Heart Container",
+        "[dungeon-C-B1] Escape - first B1 room": "Three Bombs",
+        "[dungeon-C-B1] Hyrule Castle - boomerang room": "Dungeon Map",
+        "[dungeon-C-B1] Hyrule Castle - map room": "Piece Of Heart",
+        "[dungeon-C-B3] Hyrule Castle - next to Zelda": "Key"
+    },
+    "Eastern Palace": {
+        "[dungeon-L1-1F] Eastern Palace - compass room": "Big Key",
+        "[dungeon-L1-1F] Eastern Palace - big chest": "Fire Rod",
+        "[dungeon-L1-1F] Eastern Palace - big ball room": "Dungeon Map",
+        "[dungeon-L1-1F] Eastern Palace - Big key": "Twenty Rupees",
+        "[dungeon-L1-1F] Eastern Palace - map room": "Compass",
+        "Heart Container - Armos Knights": "Piece Of Heart",
+        "Eastern Palace Pendant": "Pendant Of Courage"
+    },
+    "Desert Palace": {
+        "[dungeon-L2-B1] Desert Palace - big chest": "One Hundred Rupees",
+        "[dungeon-L2-B1] Desert Palace - Map room": "Key",
+        "[dungeon-L2-B1] Desert Palace - Small key room": "Dungeon Map",
+        "[dungeon-L2-B1] Desert Palace - Big key room": "Big Key",
+        "[dungeon-L2-B1] Desert Palace - compass room": "Heart Container",
+        "Heart Container - Lanmolas": "Compass",
+        "Desert Palace Pendant": "Crystal 7"
+    },
+    "Death Mountain": {
+        "Old Mountain Man": "Arrow Upgrade (5)",
+        "Piece of Heart (Spectacle Rock Cave)": "Three Bombs",
+        "Ether Tablet": "Bow",
+        "Piece of Heart (Spectacle Rock)": "Piece Of Heart",
+        "[cave-012-1F] Death Mountain - wall of caves - left cave": "Flute",
+        "[cave-013] Mimic cave (from Turtle Rock)": "Three Hundred Rupees",
+        "[cave-009-1F] Death Mountain - wall of caves - right cave [top left chest]": "Bomb Upgrade (5)",
+        "[cave-009-1F] Death Mountain - wall of caves - right cave [top left middle chest]": "Piece Of Heart",
+        "[cave-009-1F] Death Mountain - wall of caves - right cave [top right middle chest]": "Hookshot",
+        "[cave-009-1F] Death Mountain - wall of caves - right cave [top right chest]": "Piece Of Heart",
+        "[cave-009-1F] Death Mountain - wall of caves - right cave [bottom chest]": "Shovel",
+        "[cave-009-B1] Death Mountain - wall of caves - right cave [left chest]": "Fifty Rupees",
+        "[cave-009-B1] Death Mountain - wall of caves - right cave [right chest]": "Bomb Upgrade (5)",
+        "Piece of Heart (Death Mountain - floating island)": "Twenty Rupees"
+    },
+    "Tower Of Hera": {
+        "[dungeon-L3-1F] Tower of Hera - first floor": "Compass",
+        "[dungeon-L3-1F] Tower of Hera - freestanding key": "Arrow Upgrade (5)",
+        "[dungeon-L3-2F] Tower of Hera - Entrance": "Big Key",
+        "[dungeon-L3-4F] Tower of Hera - 4F [small chest]": "Twenty Rupees",
+        "[dungeon-L3-4F] Tower of Hera - big chest": "Dungeon Map",
+        "Heart Container - Moldorm": "Key",
+        "Tower of Hera Pendant": "Crystal 3"
+    },
+    "Castle Tower": {
+        "[dungeon-A1-2F] Hyrule Castle Tower - 2 knife guys room": "Key",
+        "[dungeon-A1-3F] Hyrule Castle Tower - maze room": "Key"
+    },
+    "Dark World": {
+        "[cave-057-1F] Dark World Death Mountain - cave from top to bottom [top chest]": "Arrow",
+        "[cave-057-1F] Dark World Death Mountain - cave from top to bottom [bottom chest]": "Bomb Upgrade (5)",
+        "[cave-056] Dark World Death Mountain - cave under boulder [top right chest]": "Three Bombs",
+        "[cave-056] Dark World Death Mountain - cave under boulder [top left chest]": "Piece Of Heart",
+        "[cave-056] Dark World Death Mountain - cave under boulder [bottom left chest]": "Magical Boomerang",
+        "[cave-056] Dark World Death Mountain - cave under boulder [bottom right chest]": "Progressive Sword",
+        "[cave-055] Spike cave": "Five Rupees",
+        "Catfish": "Ten Arrows",
+        "Piece of Heart (Pyramid)": "Heart Container",
+        "Pyramid Fairy - Left": "Fifty Rupees",
+        "Pyramid Fairy - Right": "Twenty Rupees",
+        "[cave-063] doorless hut": "Fifty Rupees",
+        "[cave-062] C-shaped house": "Piece Of Heart",
+        "Piece of Heart (Treasure Chest Game)": "Heart Container",
+        "Piece of Heart (Dark World blacksmith pegs)": "Piece Of Heart",
+        "Piece of Heart (Dark World - bumper cave)": "Twenty Rupees",
+        "[cave-073] cave northeast of swamp palace [top chest]": "Cane Of Byrna",
+        "[cave-073] cave northeast of swamp palace [top middle chest]": "Progressive Glove",
+        "[cave-073] cave northeast of swamp palace [bottom middle chest]": "Bomb Upgrade (5)",
+        "[cave-073] cave northeast of swamp palace [bottom chest]": "Ten Arrows",
+        "Flute Boy": "Piece Of Heart",
+        "[cave-073] cave northeast of swamp palace - generous guy": "Fifty Rupees",
+        "Piece of Heart (Digging Game)": "Bug Catching Net",
+        "[cave-071] Misery Mire west area [left chest]": "Twenty Rupees",
+        "[cave-071] Misery Mire west area [right chest]": "Bomb Upgrade (5)"
+    },
+    "Dark Palace": {
+        "[dungeon-D1-1F] Dark Palace - big key room": "Ten Arrows",
+        "[dungeon-D1-1F] Dark Palace - jump room [right chest]": "Key",
+        "[dungeon-D1-1F] Dark Palace - jump room [left chest]": "Key",
+        "[dungeon-D1-1F] Dark Palace - big chest": "Dungeon Map",
+        "[dungeon-D1-1F] Dark Palace - compass room": "Arrow Upgrade (5)",
+        "[dungeon-D1-1F] Dark Palace - spike statue room": "Big Key",
+        "[dungeon-D1-B1] Dark Palace - turtle stalfos room": "Key",
+        "[dungeon-D1-B1] Dark Palace - room leading to Helmasaur [left chest]": "Key",
+        "[dungeon-D1-B1] Dark Palace - room leading to Helmasaur [right chest]": "Arrow Upgrade (10)",
+        "[dungeon-D1-1F] Dark Palace - statue push room": "Key",
+        "[dungeon-D1-1F] Dark Palace - maze room [top chest]": "Twenty Rupees",
+        "[dungeon-D1-1F] Dark Palace - maze room [bottom chest]": "Three Hundred Rupees",
+        "[dungeon-D1-B1] Dark Palace - shooter room": "Key",
+        "Heart Container - Helmasaur King": "Compass",
+        "Palace of Darkness Crystal": "Pendant Of Power"
+    },
+    "Swamp Palace": {
+        "[dungeon-D2-1F] Swamp Palace - first room": "Key",
+        "[dungeon-D2-B1] Swamp Palace - big chest": "Five Rupees",
+        "[dungeon-D2-B1] Swamp Palace - big key room": "Compass",
+        "[dungeon-D2-B1] Swamp Palace - map room": "Bottle (Fairy)",
+        "[dungeon-D2-B1] Swamp Palace - push 4 blocks room": "One Rupee",
+        "[dungeon-D2-B1] Swamp Palace - south of hookshot room": "Arrow Upgrade (5)",
+        "[dungeon-D2-B2] Swamp Palace - flooded room [left chest]": "Dungeon Map",
+        "[dungeon-D2-B2] Swamp Palace - flooded room [right chest]": "Arrow Upgrade (5)",
+        "[dungeon-D2-B2] Swamp Palace - hidden waterfall door room": "Big Key",
+        "Heart Container - Arrghus": "Twenty Rupees",
+        "Swamp Palace Crystal": "Crystal 5"
+    },
+    "Skull Woods": {
+        "[dungeon-D3-B1] Skull Woods - big chest": "Three Bombs",
+        "[dungeon-D3-B1] Skull Woods - Big Key room": "Key",
+        "[dungeon-D3-B1] Skull Woods - Compass room": "Dungeon Map",
+        "[dungeon-D3-B1] Skull Woods - east of Fire Rod room": "Key",
+        "[dungeon-D3-B1] Skull Woods - Entrance to part 2": "Silver Arrows Upgrade",
+        "[dungeon-D3-B1] Skull Woods - Gibdo/Stalfos room": "Big Key",
+        "[dungeon-D3-B1] Skull Woods - south of Fire Rod room": "Key",
+        "Heart Container - Mothula": "Compass",
+        "Skull Woods Crystal": "Pendant Of Wisdom"
+    },
+    "Thieves Town": {
+        "[dungeon-D4-1F] Thieves' Town - Room above boss": "Dungeon Map",
+        "[dungeon-D4-B1] Thieves' Town - Bottom left of huge room [bottom right chest]": "Key",
+        "[dungeon-D4-B1] Thieves' Town - Bottom left of huge room [top left chest]": "Compass",
+        "[dungeon-D4-B1] Thieves' Town - Bottom right of huge room": "Bombos",
+        "[dungeon-D4-B1] Thieves' Town - Top left of huge room": "Big Key",
+        "[dungeon-D4-B2] Thieves' Town - big chest": "Twenty Rupees",
+        "[dungeon-D4-B2] Thieves' Town - next to Blind": "Heart Container",
+        "Heart Container - Blind": "Piece Of Heart",
+        "Thieves Town Crystal": "Crystal 2"
+    },
+    "Ice Palace": {
+        "[dungeon-D5-B1] Ice Palace - Big Key room": "Magic Mirror",
+        "[dungeon-D5-B1] Ice Palace - compass room": "Key",
+        "[dungeon-D5-B2] Ice Palace - map room": "Key",
+        "[dungeon-D5-B3] Ice Palace - spike room": "Big Key",
+        "[dungeon-D5-B4] Ice Palace - above Blue Mail room": "Dungeon Map",
+        "[dungeon-D5-B5] Ice Palace - b5 up staircase": "Compass",
+        "[dungeon-D5-B5] Ice Palace - big chest": "Three Hundred Rupees",
+        "Heart Container - Kholdstare": "Twenty Rupees",
+        "Ice Palace Crystal": "Crystal 1"
+    },
+    "Misery Mire": {
+        "[dungeon-D6-B1] Misery Mire - big chest": "Twenty Rupees",
+        "[dungeon-D6-B1] Misery Mire - big hub room": "Key",
+        "[dungeon-D6-B1] Misery Mire - big key": "Dungeon Map",
+        "[dungeon-D6-B1] Misery Mire - compass": "Progressive Shield",
+        "[dungeon-D6-B1] Misery Mire - end of bridge": "Big Key",
+        "[dungeon-D6-B1] Misery Mire - map room": "Key",
+        "[dungeon-D6-B1] Misery Mire - spike room": "Key",
+        "Heart Container - Vitreous": "Compass",
+        "Misery Mire Crystal": "Crystal 4"
+    },
+    "Turtle Rock": {
+        "[dungeon-D7-1F] Turtle Rock - Chain chomp room": "Key",
+        "[dungeon-D7-1F] Turtle Rock - compass room": "Key",
+        "[dungeon-D7-1F] Turtle Rock - Map room [left chest]": "Big Key",
+        "[dungeon-D7-1F] Turtle Rock - Map room [right chest]": "Dungeon Map",
+        "[dungeon-D7-B1] Turtle Rock - big chest": "Key",
+        "[dungeon-D7-B1] Turtle Rock - big key room": "Three Bombs",
+        "[dungeon-D7-B1] Turtle Rock - Roller switch room": "Piece Of Heart",
+        "[dungeon-D7-B2] Turtle Rock - Eye bridge room [bottom left chest]": "Key",
+        "[dungeon-D7-B2] Turtle Rock - Eye bridge room [bottom right chest]": "Twenty Rupees",
+        "[dungeon-D7-B2] Turtle Rock - Eye bridge room [top left chest]": "Heart Container",
+        "[dungeon-D7-B2] Turtle Rock - Eye bridge room [top right chest]": "Compass",
+        "Heart Container - Trinexx": "Progressive Sword",
+        "Turtle Rock Crystal": "Crystal 6"
+    },
+    "Ganons Tower": {
+        "[dungeon-A2-1F] Ganon's Tower - down left staircase from entrance": "Key",
+        "[dungeon-A2-1F] Ganon's Tower - north of gap room [top left chest]": "Big Key",
+        "[dungeon-A2-1F] Ganon's Tower - north of gap room [top right chest]": "Compass",
+        "[dungeon-A2-1F] Ganon's Tower - north of gap room [bottom left chest]": "Bottle (Red Potion)",
+        "[dungeon-A2-1F] Ganon's Tower - north of gap room [bottom right chest]": "Key",
+        "[dungeon-A2-1F] Ganon's Tower - west of teleport room [top left chest]": "Twenty Rupees",
+        "[dungeon-A2-1F] Ganon's Tower - west of teleport room [top right chest]": "Piece Of Heart",
+        "[dungeon-A2-1F] Ganon's Tower - west of teleport room [bottom left chest]": "Piece Of Heart",
+        "[dungeon-A2-1F] Ganon's Tower - west of teleport room [bottom right chest]": "Progressive Shield",
+        "[dungeon-A2-1F] Ganon's Tower - north of teleport room": "Twenty Rupees",
+        "[dungeon-A2-1F] Ganon's Tower - map room": "Five Rupees",
+        "[dungeon-A2-1F] Ganon's Tower - big chest": "Twenty Rupees",
+        "[dungeon-A2-1F] Ganon's Tower - down right staircase from entrance [left chest]": "Piece Of Heart",
+        "[dungeon-A2-1F] Ganon's Tower - down right staircase from entrance [right chest]": "Key",
+        "[dungeon-A2-1F] Ganon's Tower - above Armos": "Piece Of Heart",
+        "[dungeon-A2-1F] Ganon's Tower - east of down right staircase from entrance": "Twenty Rupees",
+        "[dungeon-A2-1F] Ganon's Tower - compass room [top left chest]": "Key",
+        "[dungeon-A2-1F] Ganon's Tower - compass room [top right chest]": "Heart Container",
+        "[dungeon-A2-1F] Ganon's Tower - compass room [bottom left chest]": "Fifty Rupees",
+        "[dungeon-A2-1F] Ganon's Tower - compass room [bottom right chest]": "Fifty Rupees",
+        "[dungeon-A2-B1] Ganon's Tower - north of Armos room [bottom chest]": "Bomb Upgrade (5)",
+        "[dungeon-A2-B1] Ganon's Tower - north of Armos room [left chest]": "Twenty Rupees",
+        "[dungeon-A2-B1] Ganon's Tower - north of Armos room [right chest]": "Twenty Rupees",
+        "[dungeon-A2-6F] Ganon's Tower - north of falling floor four torches [top left chest]": "Half Magic",
+        "[dungeon-A2-6F] Ganon's Tower - north of falling floor four torches [top right chest]": "Twenty Rupees",
+        "[dungeon-A2-6F] Ganon's Tower - before Moldorm": "Dungeon Map",
+        "[dungeon-A2-6F] Ganon's Tower - Moldorm room": "Three Hundred Rupees"
+    },
+    "Special": {
+        "Turtle Rock Medallion": "Bombos",
+        "Misery Mire Medallion": "Quake",
+        "Waterfall Bottle": "Bottle (Green Potion)",
+        "Pyramid Bottle": "Bottle (Fairy)"
+    },
+    "playthrough": {
+        "1": {
+            "Light World": {
+                "Uncle": "Progressive Sword",
+                "[cave-035] Sahasrahla's Hut [left chest]": "Cane Of Somaria",
+                "[cave-022-B1] Thief's hut [top right chest]": "Hammer",
+                "[cave-050] cave southwest of Lake Hylia [bottom left chest]": "Progressive Glove",
+                "Piece of Heart (Thieves' Forest Hideout)": "Ice Rod",
+                "Piece of Heart (Maze Race)": "Lamp",
+                "Piece of Heart (Dam)": "Flippers"
+            },
+            "Hyrule Castle": {
+                "[dungeon-C-B1] Escape - final basement room [left chest]": "Book Of Mudora"
+            },
+            "Eastern Palace": {
+                "[dungeon-L1-1F] Eastern Palace - big chest": "Fire Rod"
+            }
+        },
+        "2": {
+            "Light World": {
+                "King Zora": "Moon Pearl"
+            },
+            "Desert Palace": {
+                "Desert Palace Pendant": "Crystal 7"
+            }
+        },
+        "3": {
+            "Dark World": {
+                "[cave-073] cave northeast of swamp palace [top middle chest]": "Progressive Glove"
+            },
+            "Skull Woods": {
+                "[dungeon-D3-B1] Skull Woods - Entrance to part 2": "Silver Arrows Upgrade"
+            },
+            "Thieves Town": {
+                "[dungeon-D4-B1] Thieves' Town - Bottom right of huge room": "Bombos",
+                "Thieves Town Crystal": "Crystal 2"
+            }
+        },
+        "4": {
+            "Ice Palace": {
+                "[dungeon-D5-B1] Ice Palace - Big Key room": "Magic Mirror",
+                "Ice Palace Crystal": "Crystal 1"
+            }
+        },
+        "5": {
+            "Light World": {
+                "Piece of Heart (south of Haunted Grove)": "Progressive Sword"
+            },
+            "Death Mountain": {
+                "[cave-012-1F] Death Mountain - wall of caves - left cave": "Flute",
+                "[cave-009-1F] Death Mountain - wall of caves - right cave [top right middle chest]": "Hookshot"
+            },
+            "Tower Of Hera": {
+                "Tower of Hera Pendant": "Crystal 3"
+            },
+            "Turtle Rock": {
+                "Heart Container - Trinexx": "Progressive Sword",
+                "Turtle Rock Crystal": "Crystal 6"
+            }
+        },
+        "6": {
+            "Death Mountain": {
+                "Ether Tablet": "Bow"
+            },
+            "Swamp Palace": {
+                "Swamp Palace Crystal": "Crystal 5"
+            }
+        },
+        "7": {
+            "Eastern Palace": {
+                "Eastern Palace Pendant": "Pendant Of Courage"
+            }
+        },
+        "8": {
+            "Light World": {
+                "Sahasrahla": "Mushroom"
+            }
+        },
+        "9": {
+            "Light World": {
+                "Witch": "Quake"
+            }
+        },
+        "10": {
+            "Misery Mire": {
+                "Misery Mire Crystal": "Crystal 4"
+            }
+        },
+        "11": {
+            "Ganons Tower": {
+                "Agahnim 2": "Defeat Agahnim 2"
+            }
+        },
+        "12": {
+            "Dark World": {
+                "Ganon": "Defeat Ganon"
+            }
+        },
+        "longest_item_chain": 12,
+        "regions_visited": 21
+    },
+    "meta": {
+        "difficulty": "normal",
+        "logic": "no-glitches-25",
+        "seed": 824466025,
+        "goal": "ganon",
+        "build": "2017-07-15",
+        "mode": "standard"
+    }
+}

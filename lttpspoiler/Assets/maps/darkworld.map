@@ -1,0 +1,138 @@
+﻿MAP, DW, Dark World
+Position, [cave-057-1F] Dark World Death Mountain - cave from top to bottom [top chest],1727,297
+Position, [cave-057-1F] Dark World Death Mountain - cave from top to bottom [bottom chest],1727, 330
+Position, [cave-056] Dark World Death Mountain - cave under boulder [top right chest],1705,138
+Position, [cave-056] Dark World Death Mountain - cave under boulder [top left chest],1672,138
+Position, [cave-056] Dark World Death Mountain - cave under boulder [bottom left chest],1672, 172
+Position, [cave-056] Dark World Death Mountain - cave under boulder [bottom right chest],1705, 172
+Position, [cave-055] Spike cave, 1178, 300
+Position, Catfish, 1834, 355
+Position, Piece of Heart (Pyramid), 1190, 916
+Position, Pyramid Fairy - Left, 953, 997
+Position, Pyramid Fairy - Right, 986, 997
+Position, [cave-063] doorless hut, 225, 1196
+Position, [cave-062] C-shaped house, 425, 990
+Position, Piece of Heart (Treasure Chest Game), 105, 957
+Position, Piece of Heart (Dark World blacksmith pegs), 648, 1238
+Position, Piece of Heart (Dark World - bumper cave), 707, 320
+Position, [cave-073] cave northeast of swamp palace [top chest], 1225, 1562
+Position, [cave-073] cave northeast of swamp palace [top middle chest],1225, 1595
+Position, [cave-073] cave northeast of swamp palace [bottom middle chest], 1225, 1628
+Position, [cave-073] cave northeast of swamp palace [bottom chest],1225,1661
+Position, Flute Boy,635,1402
+Position, [cave-073] cave northeast of swamp palace - generous guy,1225,1694
+Position, Piece of Heart (Digging Game),118,1391
+Position, [cave-071] Misery Mire west area [left chest],57,1634
+Position, [cave-071] Misery Mire west area [right chest],90,1634
+Position, [dungeon-D1-1F] Dark Palace - big key room, 1921, 748
+Position, [dungeon-D1-1F] Dark Palace - jump room [right chest], 1954, 748
+Position, [dungeon-D1-1F] Dark Palace - jump room [left chest], 1987, 748
+Position, [dungeon-D1-1F] Dark Palace - big chest, 1921, 781
+Position, [dungeon-D1-1F] Dark Palace - compass room, 1954, 781
+Position, [dungeon-D1-1F] Dark Palace - spike statue room, 1987, 781
+Position, [dungeon-D1-B1] Dark Palace - turtle stalfos room, 1921, 814
+Position, [dungeon-D1-B1] Dark Palace - room leading to Helmasaur [left chest], 1954, 814
+Position, [dungeon-D1-B1] Dark Palace - room leading to Helmasaur [right chest], 1987, 814
+Position, [dungeon-D1-1F] Dark Palace - statue push room, 1921, 847
+Position, [dungeon-D1-1F] Dark Palace - maze room [top chest], 1954, 847
+Position, [dungeon-D1-1F] Dark Palace - maze room [bottom chest], 1987, 847
+Position, [dungeon-D1-B1] Dark Palace - shooter room, 1921, 880
+Position, Heart Container - Helmasaur King, 1954, 880
+Position, Palace of Darkness Crystal, 1954, 913
+Position, [dungeon-D2-B1] Swamp Palace - big chest, 938, 1900
+Position, [dungeon-D2-B1] Swamp Palace - big key room,971, 1900
+Position, [dungeon-D2-B1] Swamp Palace - map room, 1004, 1900
+Position, [dungeon-D2-B1] Swamp Palace - push 4 blocks room, 938, 1933
+Position, [dungeon-D2-B1] Swamp Palace - south of hookshot room, 971, 1933
+Position, [dungeon-D2-B2] Swamp Palace - flooded room [left chest], 1004, 1933
+Position, [dungeon-D2-B2] Swamp Palace - flooded room [right chest], 938, 1966
+Position, [dungeon-D2-B2] Swamp Palace - hidden waterfall door room, 971, 1966
+Position, Heart Container - Arrghus, 1004, 1966
+Position, Swamp Palace Crystal, 971, 1999
+Position, [dungeon-D3-B1] Skull Woods - big chest, 343, 300
+Position, [dungeon-D3-B1] Skull Woods - Big Key room, 376, 300
+Position, [dungeon-D3-B1] Skull Woods - Compass room, 409, 300
+Position, [dungeon-D3-B1] Skull Woods - east of Fire Rod room, 343, 333
+Position, [dungeon-D3-B1] Skull Woods - Entrance to part 2, 376, 333
+Position, [dungeon-D3-B1] Skull Woods - Gibdo/Stalfos room, 409, 333
+Position, [dungeon-D3-B1] Skull Woods - south of Fire Rod room, 343, 366
+Position, Heart Container - Mothula, 376, 366
+Position, Skull Woods Crystal, 376, 399
+Position, [dungeon-D4-1F] Thieves' Town - Room above boss, 244, 989
+Position, [dungeon-D4-B1] Thieves' Town - Bottom left of huge room [bottom right chest], 277, 989
+Position, [dungeon-D4-B1] Thieves' Town - Bottom left of huge room [top left chest], 310, 989
+Position, [dungeon-D4-B1] Thieves' Town - Bottom right of huge room, 244, 1022
+Position, [dungeon-D4-B1] Thieves' Town - Top left of huge room, 277, 1022
+Position, [dungeon-D4-B2] Thieves' Town - big chest, 310, 1022
+Position, [dungeon-D4-B2] Thieves' Town - next to Blind, 244, 1055
+Position, Heart Container - Blind, 277, 1055
+Position, Thieves Town Crystal, 277, 1088
+Position, [dungeon-D5-B1] Ice Palace - Big Key room, 1600, 1736
+Position, [dungeon-D5-B1] Ice Palace - compass room, 1633, 1736
+Position, [dungeon-D5-B2] Ice Palace - map room, 1666, 1736
+Position, [dungeon-D5-B3] Ice Palace - spike room, 1600, 1769 
+Position, [dungeon-D5-B4] Ice Palace - above Blue Mail room, 1633, 1769
+Position, [dungeon-D5-B5] Ice Palace - b5 up staircase, 1666, 1769
+Position, [dungeon-D5-B5] Ice Palace - big chest, 1600, 1802
+Position, Heart Container - Kholdstare, 1633, 1802
+Position, Ice Palace Crystal, 1633, 1835
+Position, [dungeon-D6-B1] Misery Mire - big chest, 138, 1649
+Position, [dungeon-D6-B1] Misery Mire - big hub room, 171, 1649
+Position, [dungeon-D6-B1] Misery Mire - big key, 204, 1649
+Position, [dungeon-D6-B1] Misery Mire - compass, 138, 1682
+Position, [dungeon-D6-B1] Misery Mire - end of bridge, 171, 1682
+Position, [dungeon-D6-B1] Misery Mire - map room, 204, 1682
+Position, [dungeon-D6-B1] Misery Mire - spike room, 138, 1715
+Position, Heart Container - Vitreous, 171, 1715
+Position, Misery Mire Crystal, 171, 1748
+Position, [dungeon-D7-1F] Turtle Rock - Chain chomp room, 1910, 110
+Position, [dungeon-D7-1F] Turtle Rock - compass room, 1943, 110
+Position, [dungeon-D7-1F] Turtle Rock - Map room [left chest], 1976, 110
+Position, [dungeon-D7-1F] Turtle Rock - Map room [right chest], 1910, 143
+Position, [dungeon-D7-B1] Turtle Rock - big chest, 1943, 143
+Position, [dungeon-D7-B1] Turtle Rock - big key room, 1976, 143
+Position, [dungeon-D7-B1] Turtle Rock - Roller switch room, 1910, 176
+Position, [dungeon-D7-B2] Turtle Rock - Eye bridge room [bottom left chest], 1943, 176
+Position, [dungeon-D7-B2] Turtle Rock - Eye bridge room [bottom right chest], 1976, 176
+Position, [dungeon-D7-B2] Turtle Rock - Eye bridge room [top left chest], 1910, 209
+Position, [dungeon-D7-B2] Turtle Rock - Eye bridge room [top right chest], 1943, 209
+Position, Heart Container - Trinexx, 1976, 209
+Position, Turtle Rock Crystal,1943, 242
+Position, [dungeon-A2-1F] Ganon's Tower - down left staircase from entrance, 1120, 16
+Position, [dungeon-A2-1F] Ganon's Tower - north of gap room [top left chest], 1153, 16
+Position, [dungeon-A2-1F] Ganon's Tower - north of gap room [top right chest], 1186, 16
+Position, [dungeon-A2-1F] Ganon's Tower - north of gap room [bottom left chest], 1219, 16
+Position, [dungeon-A2-1F] Ganon's Tower - north of gap room [bottom right chest], 1120, 49
+Position, [dungeon-A2-1F] Ganon's Tower - west of teleport room [top left chest], 1153, 49
+Position, [dungeon-A2-1F] Ganon's Tower - west of teleport room [top right chest], 1186, 49
+Position, [dungeon-A2-1F] Ganon's Tower - west of teleport room [bottom left chest], 1219, 49
+Position, [dungeon-A2-1F] Ganon's Tower - west of teleport room [bottom right chest], 1120, 82
+Position, [dungeon-A2-1F] Ganon's Tower - north of teleport room, 1153, 82
+Position, [dungeon-A2-1F] Ganon's Tower - map room, 1186, 82
+Position, [dungeon-A2-1F] Ganon's Tower - big chest, 1219, 82
+Position, [dungeon-A2-1F] Ganon's Tower - down right staircase from entrance [left chest], 1120, 115
+Position, [dungeon-A2-1F] Ganon's Tower - down right staircase from entrance [right chest], 1153, 115
+Position, [dungeon-A2-1F] Ganon's Tower - above Armos, 1186, 115
+Position, [dungeon-A2-1F] Ganon's Tower - east of down right staircase from entrance, 1219, 115
+Position, [dungeon-A2-1F] Ganon's Tower - compass room [top left chest], 1120, 148
+Position, [dungeon-A2-1F] Ganon's Tower - compass room [top right chest], 1153, 148
+Position, [dungeon-A2-1F] Ganon's Tower - compass room [bottom left chest], 1186, 148
+Position, [dungeon-A2-1F] Ganon's Tower - compass room [bottom right chest], 1219, 148
+Position, [dungeon-A2-B1] Ganon's Tower - north of Armos room [bottom chest], 1120, 181
+Position, [dungeon-A2-B1] Ganon's Tower - north of Armos room [left chest], 1153, 181
+Position, [dungeon-A2-B1] Ganon's Tower - north of Armos room [right chest], 1186, 181
+Position, [dungeon-A2-6F] Ganon's Tower - north of falling floor four torches [top left chest], 1219, 181
+Position, [dungeon-A2-6F] Ganon's Tower - north of falling floor four torches [top right chest], 1120, 214
+Position, [dungeon-A2-6F] Ganon's Tower - before Moldorm, 1153, 214
+Position, [dungeon-A2-6F] Ganon's Tower - Moldorm room, 1186, 214
+Position, Turtle Rock Medallion, 1943, 77
+Position, Misery Mire Medallion, 171, 1616
+Boss, Helmasaur King, 1921, 683
+Boss, Arrghus, 938, 1834
+Boss, Mothula, 343, 234
+Boss, Blind, 244, 925
+Boss, Kholdstare, 1600, 1672
+Boss, Vitreous, 235, 1649
+Boss, Trinexx, 1846, 110
+Boss, Agahnim,  1057,  181
+Boss, Ganon, 1011, 826
